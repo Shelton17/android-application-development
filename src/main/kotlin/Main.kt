@@ -108,6 +108,8 @@ fun main() {
 
     val test_function = 10
     println(test_function.is_odd())
+
+    val dog = Animal("Dog")
 }
 
 //functions
